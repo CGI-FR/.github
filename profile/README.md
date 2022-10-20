@@ -1,12 +1,12 @@
 # Welcome to the CGI-FR GitHub organization 👋
 
-Founded in 1976, CGI is among the largest IT and business consulting services firms in the world. We are insights-driven and outcome-based to help accelerate returns on your IT and business investments.
+Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With more than 88 000 consultants and professionals across the globe, CGI delivers an end-to-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. 
 
-In all we do, our goal is to build trusted relationships through client proximity, providing industry and technology expertise to help you meet the needs of your customers and citizens.
+CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. 
 
 ## CGI & Open Source
 
-There is a long story between the CGI-FR and the Open Source community.
+There is a long story between the CGI and the Open Source community.
 
 * We consume third-party open source software is used in the CGI technology stack. We are more committed to using open source software than ever before, and we already have an open source review board. It primarily ensures that when we use open source software, we carefully read the license, terms and conditions, and any specific legal issues (such as embargos ...).
 
