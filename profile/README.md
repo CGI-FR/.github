@@ -1,4 +1,4 @@
-# Welcome to the CGI-FR GitHub organization 👋
+# Welcome to the CGI-FR GitHub community 👋
 
 Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With more than 88 000 consultants and professionals across the globe, CGI delivers an end-to-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. 
 
