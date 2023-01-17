@@ -2,7 +2,7 @@
 
 Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With more than 88 000 consultants and professionals across the globe, CGI delivers an end-to-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. 
 
-CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. 
+CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results
 
 ## CGI & Open Source
 
@@ -22,8 +22,7 @@ We have long recognized that it is more cost-effective to use or customize exist
 
 By demonstrating how CGI develops cutting-edge solutions that address technical issues, we may deepen our understanding of those technologies, expand our technical competence, enhance CGI's reputation, and increase our influence in the community. Greater talent recruitment and retention follow from this.
 
-Similarly, recruiting benefits from a pool of external talents who are already familiar with the open source software that is already part of our technology stack.
-Maintain the Open Source Community from which we benefited by contributing and giving back.
+Similarly, recruiting benefits from a pool of external talents who are already familiar with the open source software that is already part of our technology stack. Maintain the Open Source Community from which we benefited by contributing and giving back.
 
 ## How to Contribute to CGI ?
 
